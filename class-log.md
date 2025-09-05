@@ -1,0 +1,1 @@
+today in class we learned how to create a new repository on github.com, clone the repo to github desktop,add a file to my new repo,commit the changes, and push the changes to the remote repo on github.com
